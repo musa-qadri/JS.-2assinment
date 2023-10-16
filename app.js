@@ -43,12 +43,14 @@ var num = 14
 var tem = ("times");
 var full = visit + " " + num +" " +  tem
 alert(full)
+document.write("Musa Qazim ordered 5 T-shirt(s) zara man clothing store<br>")
 
 // Question 3
 var birth = "My birth year is"
 var year = 2001
 var happy = birth + " " +year
 alert (happy)
+document.write("My birth year in 1990 <br> Data typeof my declered veriable is number")
 
 // Question 4
 var name = "Musa Qazim ordered "
@@ -56,3 +58,12 @@ var num = 5
 var nam = "T-shirt(s) on XYZ Clothing store"
 var marketing = name + " " +num+ " "+nam
 alert (marketing)
+
+
+// ----------chapter 4----------
+
+// Question
+var namw,agq,gender = "musa"
+alert(gender)
+
+document.write("nuas iuhs")
